@@ -1,10 +1,3 @@
----
-permalink: /about/
-comments: false
-toc: true
-toc_sticky: true
----
-
 # ✋ Hi, there!
 
 <br>I'm Juhyeong("ju-young") Kim, an FPGA and firmware engineer living in Seoul, South Korea. Please see my [blog](https://techne-atelier.com/).
