@@ -23,10 +23,11 @@ Bachelor's degree · Electronics Engineering, 2013.03 - 2020.02
 ### During my university years
 
 1. [A Clock that receives and displays time, weather, and traffic information through Wi-Fi](https://github.com/juhyeong-tech/overwatch)
-2. [Self Driving Toy Car](https://github.com/juhyeong-tech/self-driving-toy-car)
+2. [Self driving toy car](https://github.com/juhyeong-tech/self-driving-toy-car)
 3. [System for detecting objects on a prohibited line](https://github.com/juhyeong-tech/seoul-iot-2018)
 4. [Bitcoin price prediction](https://github.com/juhyeong-tech/bitcoin-price-prediction)
-5. Web-server
+5. FPGA based toy car
+6. Web-server
 
 And so on...
 
